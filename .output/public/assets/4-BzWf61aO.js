@@ -1,0 +1,1 @@
+var e=`/assets/4-Cu4iZMls.mp4`;export{e as default};

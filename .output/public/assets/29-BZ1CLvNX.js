@@ -1,0 +1,1 @@
+var e=`/assets/29-FtuE-z_v.jpeg`;export{e as default};

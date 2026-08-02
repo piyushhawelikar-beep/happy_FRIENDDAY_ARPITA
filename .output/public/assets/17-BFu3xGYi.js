@@ -1,0 +1,1 @@
+var e=`/assets/17-CnM_LPRD.jpeg`;export{e as default};

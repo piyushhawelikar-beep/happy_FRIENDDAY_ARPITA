@@ -1,0 +1,1 @@
+var e=`/assets/26-DhMp_4mQ.jpeg`;export{e as default};

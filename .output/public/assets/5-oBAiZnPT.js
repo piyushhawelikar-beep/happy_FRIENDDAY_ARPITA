@@ -1,0 +1,1 @@
+var e=`/assets/5-DQ_xRApp.jpeg`;export{e as default};

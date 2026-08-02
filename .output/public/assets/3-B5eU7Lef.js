@@ -1,0 +1,1 @@
+var e=`/assets/3-CDioVrLg.mp4`;export{e as default};
